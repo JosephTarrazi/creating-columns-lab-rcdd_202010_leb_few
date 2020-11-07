@@ -53,3 +53,12 @@ img:hover {
   display: inline-block;
   width: 48%;
 }
+.large{
+  width:100%;
+}
+.med{
+  width:50%;
+}
+.small{
+  width:30%;
+}
